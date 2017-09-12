@@ -1,0 +1,24 @@
+Read ME*
+
+1. How I worked on this?
+The project consists of two different packages
+1. Model
+2. Implementation
+
+
+I have initially modeled the project by dividing the model into three different classes.
+1. Edge.java: Departures section
+2. Graph.java: Conveyor System section
+
+
+So sections you have mentioned in the problem Conveyor system, Departures and Bags are modeled using the three classes.
+The business logic is implemented using the DijiktraAlgorithm.java where all the minimum and time calculations are made.
+
+Also I have created a JUnit test case  TestDijikstraAlgorithm where we can run the program and see the expected output.
+
+
+How to Run?
+You can run the project by using the Junit test case I have created where the inputs are inserted in the test case and the
+output is given.
+ 
+
